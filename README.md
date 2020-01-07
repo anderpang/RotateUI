@@ -1,6 +1,8 @@
 # RotateUI
 原生改编jquery-gman-circle.js
 
+[演示地址](http://www.wuweierwei.com/demo/RotateUI.html)
+
 ```js
 new RotateUI({
     el:DOM,
